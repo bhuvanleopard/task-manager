@@ -34,8 +34,8 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/ai-task-manager-project.git](https://github.com/your-username/ai-task-manager-project.git)
-    cd ai-task-manager-project
+    git clone [https://github.com/your-username/task-manager-project.git](https://github.com/your-username/task-manager-project.git)
+    cd task-manager-project
     ```
 
 2.  **Install dependencies:**
