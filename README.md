@@ -3,8 +3,6 @@
 > A React + TypeScript project showcasing the UI for an intelligent task management application. This interface demonstrates how autonomous AI agents can interpret tasks, automate communications, and provide productivity insights.
 
 
-*(Suggestion: Record a short GIF showing the AI workflow or the communication automation mockups and replace the link above.)*
-
 ## ✨ Core Features
 
 This project demonstrates a next-generation productivity tool powered by AI:
