@@ -2,7 +2,6 @@
 
 > A React + TypeScript project showcasing the UI for an intelligent task management application. This interface demonstrates how autonomous AI agents can interpret tasks, automate communications, and provide productivity insights.
 
-![AI Task Manager Demo](https://via.placeholder.com/800x400.png?text=Add+a+Demo+GIF+or+Screenshot+Here)
 
 *(Suggestion: Record a short GIF showing the AI workflow or the communication automation mockups and replace the link above.)*
 
@@ -34,8 +33,8 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/task-manager-project.git](https://github.com/your-username/task-manager-project.git)
-    cd task-manager-project
+    git clone [https://github.com/bhuvanleopard/task-manager.git](https://github.com/bhuvanleopard/task-manager.git)
+    cd task-manager
     ```
 
 2.  **Install dependencies:**
